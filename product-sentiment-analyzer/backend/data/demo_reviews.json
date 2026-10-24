@@ -1,0 +1,36 @@
+{
+  "product": {
+    "name": "Wireless Noise Cancelling Headphones Pro",
+    "url": "https://example.com/demo-product",
+    "source": "Demo E-Commerce Store",
+    "rating": 4.3,
+    "total_reviews": 25
+  },
+  "reviews": [
+    {"text": "Extremely comfortable with incredible active noise cancellation! Worth every penny.", "rating": 5},
+    {"text": "Sound quality is top-notch. Highs are crisp and bass is deep.", "rating": 5},
+    {"text": "Battery life lasts easily over 30 hours. Very happy with this purchase.", "rating": 5},
+    {"text": "The bluetooth pairing was super fast and seamless on all my devices.", "rating": 5},
+    {"text": "Fantastic design, lightweight build, and premium carrying case included.", "rating": 5},
+    {"text": "Great audio performance for gaming and taking work calls.", "rating": 4},
+    {"text": "Comfortable ear cushions for long listening sessions during daily commute.", "rating": 4},
+    {"text": "Microphone clarity is surprisingly clear during Zoom meetings.", "rating": 4},
+    {"text": "Fast USB-C charging gets me 5 hours of play in just 10 minutes.", "rating": 5},
+    {"text": "Good value for money compared to expensive brands on the market.", "rating": 4},
+    {"text": "Build quality is decent, but plastic feels a bit flimsy around the hinges.", "rating": 3},
+    {"text": "Sound is good, but the companion mobile app crashes occasionally.", "rating": 3},
+    {"text": "Acceptable noise cancellation, though lower frequency sounds still leak in.", "rating": 3},
+    {"text": "The headphones are fine, nothing extraordinary but gets the job done.", "rating": 3},
+    {"text": "Average battery life and average sound quality. Satisfactory product.", "rating": 3},
+    {"text": "Disappointed with the tight clamping force. Gives me a headache after an hour.", "rating": 2},
+    {"text": "The left earbud started flickering after two weeks of regular use.", "rating": 2},
+    {"text": "Bluetooth drops connection frequently when walking in crowded areas.", "rating": 2},
+    {"text": "Poor customer service when requesting warranty replacement.", "rating": 1},
+    {"text": "Terrible sound distortion at higher volume levels. Returning immediately.", "rating": 1},
+    {"text": "Horrible build quality! The headband snapped on day three.", "rating": 1},
+    {"text": "Noise cancellation doesn't work at all. Completely unsatisfied.", "rating": 1},
+    {"text": "Sleek look and sleek box packaging. Fits nicely in my bag.", "rating": 4},
+    {"text": "Controls on the side earcups are intuitive and easy to use.", "rating": 4},
+    {"text": "Decent performance, fast delivery, overall satisfying experience.", "rating": 4}
+  ]
+}
